@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>HOLA </template>
+  </category>
+<category>
+    <pattern>HOLA </pattern>
+    <template>EN QUE TE PUEDO AYUDAR ? </template>
+</category>
+<category>
+    <pattern>NO SE DIME TU </pattern>
+    <template>ESTOY AQUI PARA AYUDARTE</template>
+</category>
+</aiml>
